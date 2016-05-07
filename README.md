@@ -1,4 +1,4 @@
 Arman Akbarian's Resume
 =======================
 
-See: <rmanak.github.io/resume>
+See: <http://rmanak.github.io/resume/>
