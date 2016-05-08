@@ -108,11 +108,8 @@ article > header address + time::before {
     margin-right: 6px;
 }
 
-em {
-    font-style: normal;
-    font-weight: bold;
-    color: rgb(100, 100, 100);
-    /*margin-right: 6px;*/
+semistrong {
+    text-decoration:underline;
 }
 
 @media print {
